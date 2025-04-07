@@ -21,7 +21,7 @@ A simple to-do list application built with Laravel. This project allows users to
    git clone https://github.com/RahulLuckwal02/TodoList-laravel.git
    cd TodoList-laravel
 
-2.** composer install**:
+2. **composer install**:
   npm install
   npm install
 
