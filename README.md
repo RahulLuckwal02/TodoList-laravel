@@ -25,14 +25,14 @@ A simple to-do list application built with Laravel. This project allows users to
   npm install
   npm install
 
-3. **Set up the environment file**:
+4. **Set up the environment file**:
    cp .env.example .env
 
-4. **Generate the application key**:
+5. **Generate the application key**:
    php artisan key:generate
 
-5. **Run database migrations**:
+6. **Run database migrations**:
    php artisan migrate
 
-6. **Start the development server**:
+7. **Start the development server**:
   php artisan serve
